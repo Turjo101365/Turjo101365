@@ -61,12 +61,25 @@ Modular conversational AI gateway and retrieval-augmented generation engine engi
 
 ---
 
-## 🔬 Empirical Research
+## 🔬 Empirical Research & Academic Work
 
-### [Is Quantization Language-Neutral?](https://github.com/Turjo101365)
-Empirical evaluation benchmarking quantization degradation across low-resource South Asian languages (Bengali, Sinhala, Assamese, Nepali) against English. Tests `Qwen2.5-3B-Instruct` across FP16, INT8, and NF4 precisions on the BELEBELE benchmark using logit-level scoring to measure disproportionate accuracy drop in non-Latin scripts.
+> *Status is stated as it stands. A submitted paper is listed as submitted, and a proposal as a proposal — neither is described as published work.*
 
-`Python` `PyTorch` `Hugging Face` `bitsandbytes` `BELEBELE Benchmark`
+### 📄 [Is Quantization Language-Neutral? Tokenization Burden and Quantization Degradation in Open-Weight LLMs](https://github.com/fairuz-anadi/quantization)
+**Conference paper · Submitted — ICCIT (IEEE) 2026**  
+*Samprity Haque, Fairuz Anadi, Tanmoy Chowdhury Turjo · Dept. of CSE, Ahsanullah University of Science & Technology*  
+A controlled evaluation of three open-weight models (`Qwen2.5-3B-Instruct`, `Gemma-2-2b-it`, `BLOOMZ-3b`) at FP16, INT8, and NF4 across five South Asian languages (English, Bangla, Sinhala, Assamese, Nepali) using 900 parallel BELEBELE items (42,300 item-level paired scorings). Found that 4-bit degradation strongly rank-correlates with tokenization burden (ρ=+0.814) rather than model competence, while Sinhala loses 5.0 accuracy points more than English to NF4.
+
+`Python` `PyTorch` `bitsandbytes` `Hugging Face` `BELEBELE Benchmark`  
+[Code & data ↗](https://github.com/fairuz-anadi/quantization)
+
+---
+
+### 📋 Cross-Site Robustness of Women Safety Detection
+**Poster presentation · Proposal — SEU REACT 2026**  
+Evaluating and improving vision-based detection across real-world CCTV deployments. Reframes surveillance from raw single-site accuracy to cross-site transferability. Represents scenes through behaviour rather than appearance (trajectories, pose, proxemic encirclement/isolation), learning domain-invariant features via adversarial domain alignment. Evaluated leave-one-domain-out with strict human-in-the-loop safeguards (no facial recognition, no gender classification, purely behaviour-based).
+
+`Computer Vision` `Domain Adaptation` `Adversarial Alignment` `Proxemic Cues` `CCTV Robustness`
 
 ---
 
