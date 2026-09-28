@@ -19,7 +19,7 @@ A hyper-local transit routing platform engineered to resolve Dhaka's mobility bo
 *Key Contribution: Primary architect and author (85 commits); engineered the graph routing core, dynamic fare calculator, and full-stack API integration.*
 
 `Node.js` · `Express.js` · `React 18` · `Three.js` · `Leaflet GIS` · `MySQL 8` · `Redis` · `Zod`  
-[Live Demo ↗](https://frontend-nine-ashen-17.vercel.app)
+[Live Demo ↗](https://frontend-nine-ashen-17.vercel.app) · 🏆 **Champion**, IEEE WIE Day 2026 National Idea Presentation · 🎖️ **4th Place**, AUST CSE Carnival Hackathon
 
 ---
 
@@ -66,16 +66,51 @@ A modular conversational AI gateway and retrieval-augmented generation engine en
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), TypeScript, C# (.NET 8), PHP, SQL, C/C++ |
-| **AI / ML & Optimization** | Large Language Models (LLMs), LangChain.js, RAG Pipelines, Ollama (Local Inference), MediaPipe (WASM Vision), YOLO, SciPy (HiGHS LP Solver), Model Quantization (INT8, NF4, FP16) |
-| **Backend & Architecture** | Node.js, Express.js, ASP.NET Core 8 MVC, FastAPI, Laravel, REST APIs, Microservice Sidecars, JWT, Zod Validation |
-| **Frontend & Graphics** | React (18/19), Vite, Three.js (WebGL 2.0), Tailwind CSS, Leaflet GIS, Recharts, Chart.js, HTML5 / CSS3 |
-| **Databases & Caching** | Microsoft SQL Server 2022 (SPs, Triggers, Views, Row Locks), MySQL 8.0, PostgreSQL, Prisma ORM, Dapper, EF Core, Redis |
-| **DevOps & Platforms** | Docker, Docker Compose, Git, GitHub Actions (CI/CD), Linux / Bash, Render, Vercel, MonsterASP.NET |
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**AI / Machine Learning & Optimization**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Frontend & 3D**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Tools & Other**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -87,15 +122,17 @@ A modular conversational AI gateway and retrieval-augmented generation engine en
 
 ---
 
-### 🏆 Hackathons & Academic Milestones
+### 🏅 Achievements & Hackathons
 
-- **BUP CSE Fest 2026 Software & AI Hackathon** — *GridWise*  
+- 🏆 **Champion** — IEEE WIE Day 2026 National Idea Presentation Competition, Southeast University *(Goli Transit)*
+- 🎖️ **4th Place** — AUST CSE Carnival Hackathon *(Goli Transit)*
+- 🚀 **BUP CSE Fest 2026 Software & AI Hackathon** — *GridWise*  
   Co-developer: Built the LLM semantic parser, prompt engineering schemas, and deterministic validation guardrails for campus microgrid energy optimization.
-- **AUST CSE Carnival AI Build Hackathon** — *AcadIQ*  
+- 🚀 **AUST CSE Carnival AI Build Hackathon** — *AcadIQ*  
   Lead AI & Backend Developer: Engineered the local Ollama RAG system, 4-model multi-LLM jury evaluation pipeline, and BeSTRaP dataset benchmarks.
-- **Is Quantization Language-Neutral? (Research Pipeline)**  
+- 🔬 **Is Quantization Language-Neutral? (Research Pipeline)**  
   Collaborative empirical study evaluating quantization precision degradation (FP16 vs. INT8 vs. NF4) on low-resource languages using logit-level scoring and the BELEBELE benchmark.
-- **FridgeMama (Leftover Chef)** — *Smart Fridge Vision Companion*  
+- 🍳 **FridgeMama (Leftover Chef)** — *Smart Fridge Vision Companion*  
   Integrated fine-tuned YOLO object detection models (`best.pt`), vocabulary mapping, and Adminer service for automated ingredient shelf-life prediction and recipe matching. [Live Demo ↗](https://fridgemama.vercel.app)
 
 ---
@@ -117,13 +154,13 @@ A modular conversational AI gateway and retrieval-augmented generation engine en
 
 ---
 
-### 📬 Connect With Me
+### 📫 Get in touch
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acd776959@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Turjo101365)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acd776959@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Turjo101365)
 
 </div>
