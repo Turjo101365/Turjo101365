@@ -124,8 +124,8 @@ A modular conversational AI gateway and retrieval-augmented generation engine en
 
 ### 🏅 Achievements & Hackathons
 
-- 🏆 **Champion** — IEEE WIE Day 2026 National Idea Presentation Competition, Southeast University *(Goli Transit)*
-- 🎖️ **4th Place** — AUST CSE Carnival Hackathon *(Goli Transit)*
+
+
 - 🚀 **BUP CSE Fest 2026 Software & AI Hackathon** — *GridWise*  
   Co-developer: Built the LLM semantic parser, prompt engineering schemas, and deterministic validation guardrails for campus microgrid energy optimization.
 - 🚀 **AUST CSE Carnival AI Build Hackathon** — *AcadIQ*  
