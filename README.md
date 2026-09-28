@@ -158,7 +158,7 @@ A modular conversational AI gateway and retrieval-augmented generation engine en
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Turjo101365/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://turjo-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turjo5892@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Turjo101365)
