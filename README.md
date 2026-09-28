@@ -19,7 +19,7 @@ A hyper-local transit routing platform engineered to resolve Dhaka's mobility bo
 *Key Contribution: Primary architect and author (85 commits); engineered the graph routing core, dynamic fare calculator, and full-stack API integration.*
 
 `Node.js` · `Express.js` · `React 18` · `Three.js` · `Leaflet GIS` · `MySQL 8` · `Redis` · `Zod`  
-[Live Demo ↗](https://frontend-nine-ashen-17.vercel.app) · 🏆 **Champion**, IEEE WIE Day 2026 National Idea Presentation · 🎖️ **4th Place**, AUST CSE Carnival Hackathon
+[Live Demo ↗](https://frontend-nine-ashen-17.vercel.app)
 
 ---
 
