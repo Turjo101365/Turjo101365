@@ -25,7 +25,7 @@ Smart campus microgrid energy scheduling service uniting natural language proces
 
 ---
 
-### 🎓 [AcadIQ](https://github.com/Turjo101365/AcadIQ)
+### 🎓 [AcadIQ](https://github.com/Turjo101365/AcadIQ) · [Live ↗](https://acadiq-platform.onrender.com)
 AI-powered academic decision-support and question moderation platform. Audits syllabus coverage, balances Bloom's taxonomy, and detects historical exam redundancy. Features a zero-cloud local AI engine powered by Ollama for PDF RAG, alongside an automated Multi-LLM Jury evaluation pipeline cross-evaluating student answers against marking schemes across Qwen2.5, Phi3.5, and Mistral to detect scoring discrepancies.
 
 `TypeScript` `Node.js` `Express` `React` `Prisma ORM` `MySQL` `Ollama` `Docker Compose`  
@@ -40,7 +40,7 @@ High-concurrency digital fair and commercial stall leasing platform engineered t
 
 ---
 
-### 🫀 [Human Bio-Simulator 3D](https://github.com/Turjo101365/DNA)
+### 🫀 [Human Bio-Simulator 3D](https://github.com/Turjo101365/DNA) · [Live ↗](https://human-bio-simulator-dna.onrender.com)
 Zero-cloud, browser-native biomedical simulation platform integrating touchless computer vision with volumetric 3D anatomical rendering. Runs Google MediaPipe Vision compiled to WebAssembly directly on the client's GPU to track 21 hand landmarks for touchless rotation, zoom, and spatial freeze. Drives real-time Three.js shaders across five physiological systems (cardiac cycle, synaptic brain waves, lungs, visceral tract, 36-bp DNA double-helix uncoiling) with an on-device Ollama medical telemetry assistant.
 
 `JavaScript` `Three.js` `MediaPipe (WASM)` `React` `Ollama LLM` `Tailwind CSS`
