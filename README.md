@@ -4,7 +4,7 @@
 
 I build systems where precision, concurrency, and real-world constraints matter — hyper-local routing engines, microgrid LP optimization, high-throughput transactional databases, and verifiable multi-LLM evaluation pipelines. Most of what's here started at a hackathon and ended up deployed.
 
-🌐 [**turjo-portfolio.onrender.com**](https://turjo-portfolio.onrender.com) &nbsp;·&nbsp; (https://linkedin.com) &nbsp;·&nbsp; ✉️ [turjo5892@gmail.com](mailto:turjo5892@gmail.com)
+🌐 [**turjo-portfolio.onrender.com**](https://turjo-portfolio.onrender.com) &nbsp;·&nbsp;✉️ [turjo5892@gmail.com](mailto:turjo5892@gmail.com)
 
 ---
 
