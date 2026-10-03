@@ -133,7 +133,8 @@ Evaluating and improving vision-based detection across real-world CCTV deploymen
 
 ## 🏆 Hackathons & Recognition
 
-- 🥇 **Winner / Co-Developer**, BUP CSE Fest 2026 Software & AI Hackathon — *GridWise* (Campus Microgrid Optimization)
+- 🥇 **Finalist**, BUP CSE Fest 2026 Software & AI Hackathon — *GridWise* (Campus Microgrid Optimization)
+- 🥇 **Finalist ( Top 20 / 600 )**, BUP CSE Fest 2026 Software & AI Hackathon — *FuelGuard* (Fuel Supply Simulator)
 - 🚀 **Finalist / Lead AI**, AUST CSE Carnival AI Build Hackathon — *AcadIQ* (Multi-LLM Jury & Local RAG Moderation)
 
 ---
